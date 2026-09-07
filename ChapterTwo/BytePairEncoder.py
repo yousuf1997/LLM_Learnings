@@ -8,5 +8,6 @@ with open("the-verdict.txt", "r", encoding="utf-8") as f:
 
 InputPairGenerator(raw_text, 4, 4)
 
+#48
 
 
